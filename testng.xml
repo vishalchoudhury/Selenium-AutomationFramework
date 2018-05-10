@@ -1,0 +1,7 @@
+<suite name="Amazon Web Store" >
+	<test name="Login" >
+		<classes>
+			<class name="AutomationFramework.DriverTestNG" />
+		</classes>
+	</test>
+</suite>

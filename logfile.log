@@ -1,0 +1,92 @@
+2018-03-13 09:58:08,026 INFO  [Logger] Going to opt Browser 
+2018-03-13 09:58:08,028 INFO  [Logger] Invoking Chrome browser 
+2018-03-13 09:58:13,712 INFO  [Logger] Maximizing Window 
+2018-03-13 09:58:14,939 INFO  [Logger] Going to Home Page 
+2018-03-13 09:58:15,026 INFO  [Logger] Going to hit Amazon.com 
+2018-03-13 09:58:37,418 INFO  [Logger] Going to click Signin Button 
+2018-03-13 09:58:40,138 INFO  [Logger] Closing Broswer 
+2018-03-13 09:58:40,559 INFO  [Logger] Closing Driver Successfully 
+2018-03-13 10:46:50,429 INFO  [Logger] Going to opt Browser 
+2018-03-13 10:46:50,432 INFO  [Logger] Invoking Chrome browser 
+2018-03-13 10:46:57,340 INFO  [Logger] Maximizing Window 
+2018-03-13 10:46:58,550 INFO  [Logger] Going to Home Page 
+2018-03-13 10:46:58,665 INFO  [Logger] Going to hit Amazon.com 
+2018-03-13 10:47:08,727 INFO  [Logger] Going to click Signin Button 
+2018-03-13 10:47:11,661 INFO  [Logger] Closing Broswer 
+2018-03-13 10:47:14,258 INFO  [Logger] Closing Driver Successfully 
+2018-03-13 10:47:23,072 INFO  [Logger] Going to opt Browser 
+2018-03-13 10:47:23,072 INFO  [Logger] Invoking Chrome browser 
+2018-03-13 10:47:26,837 INFO  [Logger] Maximizing Window 
+2018-03-13 10:47:28,011 INFO  [Logger] Going to Login Page 
+2018-03-13 10:47:30,199 INFO  [Logger] Input username 
+2018-03-13 10:47:30,376 INFO  [Logger] Closing Broswer 
+2018-03-13 10:47:30,628 INFO  [Logger] Closing Driver Successfully 
+2018-03-13 10:49:37,064 INFO  [Logger] Going to opt Browser 
+2018-03-13 10:49:37,068 INFO  [Logger] Invoking Chrome browser 
+2018-03-13 10:49:40,139 INFO  [Logger] Maximizing Window 
+2018-03-13 10:49:41,283 INFO  [Logger] Going to Home Page 
+2018-03-13 10:49:41,337 INFO  [Logger] Going to hit Amazon.com 
+2018-03-13 10:49:58,116 INFO  [Logger] Going to click Signin Button 
+2018-03-13 10:50:15,969 INFO  [Logger] Closing Broswer 
+2018-03-13 10:50:18,787 INFO  [Logger] Closing Driver Successfully 
+2018-03-13 10:51:49,761 INFO  [Logger] Going to opt Browser 
+2018-03-13 10:51:49,788 INFO  [Logger] Invoking Chrome browser 
+2018-03-13 10:51:57,767 INFO  [Logger] Maximizing Window 
+2018-03-13 10:51:58,965 INFO  [Logger] Going to Home Page 
+2018-03-13 10:51:59,725 INFO  [Logger] Going to hit Amazon.com 
+2018-03-13 10:52:12,738 INFO  [Logger] Going to click Signin Button 
+2018-03-13 10:52:15,775 INFO  [Logger] Closing Broswer 
+2018-03-13 10:52:20,275 INFO  [Logger] Closing Driver Successfully 
+2018-03-13 10:52:25,009 INFO  [Logger] Going to opt Browser 
+2018-03-13 10:52:25,009 INFO  [Logger] Invoking Chrome browser 
+2018-03-13 10:52:30,688 INFO  [Logger] Maximizing Window 
+2018-03-13 10:52:31,874 INFO  [Logger] Going to Login Page 
+2018-03-13 10:52:34,920 INFO  [Logger] Input username 
+2018-03-13 10:52:35,055 INFO  [Logger] Closing Broswer 
+2018-03-13 10:52:35,224 INFO  [Logger] Closing Driver Successfully 
+2018-03-13 10:56:13,617 INFO  [Logger] Going to opt Browser 
+2018-03-13 10:56:13,620 INFO  [Logger] Invoking Chrome browser 
+2018-03-13 10:56:16,916 INFO  [Logger] Maximizing Window 
+2018-03-13 10:56:18,063 INFO  [Logger] Going to Home Page 
+2018-03-13 10:56:18,213 INFO  [Logger] Going to hit Amazon.com 
+2018-03-13 10:56:38,000 INFO  [Logger] Going to click Signin Button 
+2018-03-13 10:56:42,155 INFO  [Logger] Going to Login Page 
+2018-03-13 10:56:43,429 INFO  [Logger] Input username 
+2018-03-13 10:56:45,275 INFO  [Logger] Click Next button 
+2018-03-13 10:56:47,759 INFO  [Logger] Input Password 
+2018-03-13 10:56:48,012 INFO  [Logger] Click Submit button 
+2018-03-13 10:57:05,574 INFO  [Logger] Closing Broswer 
+2018-03-13 10:57:08,700 INFO  [Logger] Closing Driver Successfully 
+2018-03-13 10:57:15,641 INFO  [Logger] Going to Log out 
+2018-03-13 10:57:15,858 INFO  [Logger] Moving the mouse to account link area 
+2018-03-13 11:00:04,304 INFO  [Logger] Going to opt Browser 
+2018-03-13 11:00:04,308 INFO  [Logger] Invoking Chrome browser 
+2018-03-13 11:00:10,692 INFO  [Logger] Maximizing Window 
+2018-03-13 11:00:11,866 INFO  [Logger] Going to Home Page 
+2018-03-13 11:00:11,984 INFO  [Logger] Going to hit Amazon.com 
+2018-03-13 11:00:24,921 INFO  [Logger] Going to click Signin Button 
+2018-03-13 11:00:28,021 INFO  [Logger] Going to Login Page 
+2018-03-13 11:00:29,018 INFO  [Logger] Input username 
+2018-03-13 11:00:29,608 INFO  [Logger] Click Next button 
+2018-03-13 11:00:30,983 INFO  [Logger] Input Password 
+2018-03-13 11:00:31,218 INFO  [Logger] Click Submit button 
+2018-03-13 11:01:16,292 INFO  [Logger] Closing Broswer 
+2018-03-13 11:01:16,634 INFO  [Logger] Closing Driver Successfully 
+2018-03-13 11:01:18,711 INFO  [Logger] Going to Log out 
+2018-03-13 11:01:18,741 INFO  [Logger] Moving the mouse to account link area 
+2018-03-13 11:04:38,945 INFO  [Logger] Going to opt Browser 
+2018-03-13 11:04:38,949 INFO  [Logger] Invoking Chrome browser 
+2018-03-13 11:04:44,700 INFO  [Logger] Maximizing Window 
+2018-03-13 11:04:45,911 INFO  [Logger] Going to Home Page 
+2018-03-13 11:04:46,089 INFO  [Logger] Going to hit Amazon.com 
+2018-03-13 11:04:59,413 INFO  [Logger] Going to click Signin Button 
+2018-03-13 11:05:03,205 INFO  [Logger] Going to Login Page 
+2018-03-13 11:05:09,025 INFO  [Logger] Input username 
+2018-03-13 11:05:09,918 INFO  [Logger] Click Next button 
+2018-03-13 11:05:13,101 INFO  [Logger] Input Password 
+2018-03-13 11:05:13,367 INFO  [Logger] Click Submit button 
+2018-03-13 11:05:28,652 INFO  [Logger] Going to Log out 
+2018-03-13 11:05:28,817 INFO  [Logger] Moving the mouse to account link area 
+2018-03-13 11:05:31,719 INFO  [Logger] Click Sign out button 
+2018-03-13 11:05:35,596 INFO  [Logger] Closing Broswer 
+2018-03-13 11:05:41,009 INFO  [Logger] Closing Driver Successfully 
